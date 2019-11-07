@@ -7,4 +7,12 @@ The purpose of the project is to practise using Jupyter by expounding on parts o
 3. Explain the use and purpose of at least five “Distributions” functions.
 4. Explain the use of seeds in generating pseudorandom numbers.
 
+##########################################################################
 
+To open the jupyter notebook, in this directory in the terminal, enter
+
+jupyter notebook my_first_jupyter.ipynb
+
+To run individual (or some selection of) cells, you can use the Cell tab to
+choose your preferred option, but we'll aim for a nice notebook setup such
+that Run All should be the default.
