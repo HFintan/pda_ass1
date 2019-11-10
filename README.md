@@ -32,3 +32,21 @@ https://stackoverflow.com/questions/51527868/how-do-i-embed-a-gif-in-jupyter-not
 https://www.google.com/search?q=what+is+my+purpose+gif&client=ubuntu&hs=yDn&channel=fs&tbm=isch&source=iu&ictx=1&fir=CWcEb4CmIxGvvM%253A%252CQ8Ak2_oWqT81MM%252C_&vet=1&usg=AI4_-kQUF-cZx7XqJIe76C-9Xr9lnEWAdA&sa=X&ved=2ahUKEwiBz7mNudjlAhVtpIsKHQqMBh4Q9QEwA3oECAcQCg#imgrc=5ESzs4NgU-CGdM:&vet=1
 
 https://github.com/jupyter/notebook/issues/1287
+
+https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html
+
+https://stackoverflow.com/questions/37039685/hide-axis-values-in-matplotlib/37045694
+
+https://stackoverflow.com/questions/14827650/pyplot-scatter-plot-marker-size
+
+https://stackoverflow.com/questions/28504737/how-can-i-plot-a-single-point-in-matplot-python/44420447
+
+https://stackoverflow.com/questions/33203645/how-to-plot-a-histogram-using-matplotlib-in-python-with-a-list-of-data
+
+https://stackoverflow.com/questions/10580676/comparing-two-numpy-arrays-for-equality-element-wise
+
+https://stackoverflow.com/questions/16060899/alphabet-range-on-python
+
+https://www.geeksforgeeks.org/python-map-function/
+
+https://www.programiz.com/python-programming/methods/list/index
