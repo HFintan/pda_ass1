@@ -50,3 +50,17 @@ https://stackoverflow.com/questions/16060899/alphabet-range-on-python
 https://www.geeksforgeeks.org/python-map-function/
 
 https://www.programiz.com/python-programming/methods/list/index
+
+https://www.geeksforgeeks.org/sum-function-python/
+
+https://stackoverflow.com/questions/8244915/how-do-you-divide-each-element-in-a-list-by-an-int/8247234
+
+https://stackoverflow.com/questions/28418988/how-to-make-a-histogram-from-a-list-of-strings-in-python
+
+https://stackoverflow.com/questions/9001509/how-can-i-sort-a-dictionary-by-key
+
+https://pythontips.com/2016/04/24/python-sorted-collections/
+
+http://www.grantjenks.com/docs/sortedcontainers/index.html
+
+https://stackoverflow.com/questions/5735208/remove-the-legend-on-a-matplotlib-figure
