@@ -1,6 +1,6 @@
 This project is the first assignment for the GMIT HDip module Programming for Data Analytics module, due Nov 11th.
 
-The purpose of the project is to practise using Jupyter by expounding on parts of Python's numpy.random manual. More specifically, the tasks are to:
+The purpose of the project is to gain familiarity with the numpy.random python package, and to practise using Jupyter by expounding on parts of numpy.random manual. More specifically, the tasks are to:
 
 1. Explain the overall purpose of the package.
 2. Explain the use of the “Simple random data” and “Permutations” functions.
@@ -16,6 +16,14 @@ jupyter notebook my_first_jupyter.ipynb
 To run individual (or some selection of) cells, you can use the Cell tab to
 choose your preferred option, but we'll aim for a nice notebook setup such
 that Run All should be the default.
+
+NOTE: The Run All was working, but after a recent update appears to have
+stopped running the code cells properly. My googling leads me to believe
+that this is due to a recent browser or adblock update, but I've not been
+able to find the fix. I also tried reinstalling anaconda, but time and a
+crappy internet connection in this hostel are proving problematic. 
+Apologies. I think Running All and then Running All Below the Tnettenba png
+works.
 
 
 References:
@@ -64,3 +72,17 @@ https://pythontips.com/2016/04/24/python-sorted-collections/
 http://www.grantjenks.com/docs/sortedcontainers/index.html
 
 https://stackoverflow.com/questions/5735208/remove-the-legend-on-a-matplotlib-figure
+
+https://thebestyoumagazine.co/wp-content/uploads/Einstein-Frame-1036x583.jpg
+
+https://en.wikipedia.org/wiki/List_of_minor_The_Hitchhiker%27s_Guide_to_the_Galaxy_characters#Hactar
+
+http://www.asciiworld.com/-Butterflies-.html
+
+https://stackoverflow.com/questions/23623288/print-full-ascii-art?rq=1
+
+https://stackoverflow.com/questions/415511/how-to-get-the-current-time-in-python
+
+https://timestamp.online/article/how-to-get-current-timestamp-in-python
+
+
